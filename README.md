@@ -1,6 +1,23 @@
 # Sales Documentation
 ## Project Title: Sales Analysis
+---
+## Project Outlines
 
+[Project Overview for sales data](#project-overview-for-sale-data)
+
+[Data source](#data-source)
+
+[Tool used](#tool-used)
+
+[Data cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+---
 ### Project Overview for sales data
 The examination of last year's and some of this year's sales performance served as the foundation for this endeavor. After learning a few things from the data, this analysis will help us make an informed decision and show us how well the store is doing.
 
