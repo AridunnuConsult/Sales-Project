@@ -35,6 +35,9 @@ These are some of the functions and queries used to achieve our analysis
 =AVERAGEIF(C4:C9924,C9912,H4:H9924)
 =SUMIF(D4:D9924,D4242,H4:H9924)
 ```
-- SQL (Some querries used in Server Management Studio)
-- 
+```SQL 
+SELECT Product, SUM(Total_Sale) from [dbo.Litacapstone Dataset]
+Group by Product
+Order By desc
+```
 
