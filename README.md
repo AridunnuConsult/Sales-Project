@@ -23,11 +23,17 @@ After opening the dataset, we perform some data cleaning such as
 - Data formatting
 ### Exploratory Data Analysis 
 We provide answer some questions on the dataset such as 
-•	What is the total sales
-•	Average sale for each product
-•	Total sales for each region 
-•	The highest selling product etc
+- What is the total sales
+- Average sale for each product
+- Total sales for each region 
+- The highest selling product etc
 
 ### Data analysis
-These are some of the code and queries used to achieve our analysis
+These are some of the functions and queries used to achieve our analysis
+- Excel (Some of the functions/formulas used for analysis on Microsoft Excel) 
+  - ```=F4*G4 ENTER
+  - ```=AVERAGEIF(C4:C9924,C9912,H4:H9924)
+  - ```=SUMIF(D4:D9924,D4242,H4:H9924)
+- SQL (Some querries used in Server Management Studio)
+- 
 
