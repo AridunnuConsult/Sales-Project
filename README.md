@@ -59,5 +59,35 @@ Order By desc
 ```
 
 ### Data Visualization
-This section contain the screenshots of the outputs of the analysis
+This section contain some screenshots of the outputs of the analysis
+
+- Excel calculation for Sales data
+![Calculation for Sale data](https://github.com/user-attachments/assets/5aa8a915-8ff7-4f86-96c5-96e49de64896)
+
+-This showcase the some summary of the data set 
+![Pivot Table for sale data](https://github.com/user-attachments/assets/9fe9bf78-4b68-4b61-89d4-7c65a57702f4)
+
+- Using SQL queries to get some of this analysis 
+![Total Sale per product](https://github.com/user-attachments/assets/35a20098-e91a-4df0-b98e-6ab30615bd64)
+
+
+![Number of sale transaction](https://github.com/user-attachments/assets/53d4f1a0-ca97-45bc-9322-59f33958d726)
+
+
+![Highest Selling Product](https://github.com/user-attachments/assets/3537e421-fbc6-4a3f-bbe9-0c97fe6de9cf)
+
+
+![Total Revenue per product](https://github.com/user-attachments/assets/c1de693f-fcf2-4cc0-8a5b-f9f392731323)
+
+
+![Monthly Sale total for current year](https://github.com/user-attachments/assets/cbdeb6f3-ead2-4621-9307-fafdacd92aad)
+
+
+![Top 5 Customer](https://github.com/user-attachments/assets/49ffb68f-615d-4f32-9657-daba1173bbea)
+
+
+![% of total Sale by region](https://github.com/user-attachments/assets/7e64a5ed-d42e-448c-b8a6-e8d849541eff)
+
+
+![Product with no sale for last quarter](https://github.com/user-attachments/assets/701ccf70-def7-4410-b654-a8a76553be4a)
 
