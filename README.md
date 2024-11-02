@@ -31,9 +31,9 @@ We provide answer some questions on the dataset such as
 ### Data analysis
 These are some of the functions and queries used to achieve our analysis
 - Excel (Some of the functions/formulas used for analysis on Microsoft Excel) 
-  - ```=F4*G4 ENTER
-  - ```=AVERAGEIF(C4:C9924,C9912,H4:H9924)
-  - ```=SUMIF(D4:D9924,D4242,H4:H9924)
+  - ```=F4*G4 ENTER```
+  - ```=AVERAGEIF(C4:C9924,C9912,H4:H9924)```
+  - ```=SUMIF(D4:D9924,D4242,H4:H9924)```
 - SQL (Some querries used in Server Management Studio)
 - 
 
