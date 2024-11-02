@@ -58,3 +58,6 @@ Group by Product
 Order By desc
 ```
 
+### Data Visualization
+This section contain the screenshots of the outputs of the analysis
+
