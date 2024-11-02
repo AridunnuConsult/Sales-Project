@@ -67,7 +67,7 @@ This section contain some screenshots of the outputs of the analysis
 -This showcase the some summary of the data set 
 ![Pivot Table for sale data](https://github.com/user-attachments/assets/9fe9bf78-4b68-4b61-89d4-7c65a57702f4)
 
-- Using SQL queries to get some of this analysis 
+- Using SQL queries to perform some analysis 
 ![Total Sale per product](https://github.com/user-attachments/assets/35a20098-e91a-4df0-b98e-6ab30615bd64)
 
 
