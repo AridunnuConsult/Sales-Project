@@ -114,3 +114,8 @@ This section contain some screenshots of the outputs of the analysis
 
 ![Product with no sale for last quarter](https://github.com/user-attachments/assets/701ccf70-def7-4410-b654-a8a76553be4a)
 
+These are some of the visuals that tell a compiling story about the store performance
+
+![SALES DASHBOARD 1](https://github.com/user-attachments/assets/ded5abbb-266d-4428-8e38-8f6ef0ab8798)
+
+
